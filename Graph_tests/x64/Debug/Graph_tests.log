@@ -1,0 +1,13 @@
+﻿  Graph_tests.cpp
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(53,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(69,35): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(97,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(121,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(148,37): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(164,37): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(192,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\Graph_tests\Graph_tests.cpp(26,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\Graph_tests\Graph_tests.cpp(38,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\Graph_tests\Graph_tests.cpp(67,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\x64\Debug\Graph_tests.lib ш юс·хъЄ C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\x64\Debug\Graph_tests.exp
+  Graph_tests.vcxproj -> C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\x64\Debug\Graph_tests.dll

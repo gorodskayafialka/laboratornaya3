@@ -1,0 +1,9 @@
+﻿  functions.cpp
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(37,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(53,35): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(118,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(142,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(169,37): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(185,37): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\functions.cpp(213,28): warning C4101: err: неиспользованная локальная переменная
+  Floyd-Warshall_algorithm.vcxproj -> C:\Users\Prog\source\repos\Floyd-Warshall_algorithm\x64\Debug\Floyd-Warshall_algorithm.exe
